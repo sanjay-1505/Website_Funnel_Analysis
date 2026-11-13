@@ -34,10 +34,10 @@ An end-to-end data analysis project focused on understanding customer behaviour,
 - Strengthen regional and product category strategies.
 
 ## Project Structure
-- `SQL/` – SQL queries and analysis
-- `PowerBI/` – Power BI dashboard file
-- `Dataset/` – Source dataset
-- `Report/` – Final project report
+- `sql/` – SQL queries and analysis
+- `powerbi/` – Power BI dashboard file
+- `dataset/` – Source dataset
+- `report/` – Final project report
 
 ## Conclusion
 This project demonstrates how SQL and Power BI can transform raw website event data into meaningful business insights and actionable recommendations.
